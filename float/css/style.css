@@ -1,0 +1,6 @@
+body {
+    background: #b4b4b4 url("../images/pink_flowers.png") no-repeat center/cover;
+    background-attachment: fixed;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 400;
+}
