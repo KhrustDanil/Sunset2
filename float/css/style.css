@@ -101,3 +101,25 @@ body {
     display: table;
     clear: both;
 }
+
+.footer {
+    width: 78%;
+    margin-top: 4px;
+    padding-bottom: 18px;
+}
+
+.footer__line {
+    background: url("../images/back.png") no-repeat 0 50%;
+    background-size: 100%;
+    margin-top: 35px;
+}
+
+.footer__text {
+    text-align: center;
+    padding: 7px 0 6px;
+    color: #403636;
+}
+
+.footer__text-special {
+    font-weight: 700;
+}
