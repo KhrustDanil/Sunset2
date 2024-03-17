@@ -1,3 +1,4 @@
+/* 1 */
 body {
     background: #b4b4b4 url("../images/pink_flowers.png") no-repeat center/cover;
     background-attachment: fixed;
@@ -5,6 +6,7 @@ body {
     font-weight: 400;
 }
 
+/* 10 */
 .wrapper {
     width: 68%;
     margin: 0 auto;
@@ -12,6 +14,7 @@ body {
     padding: 0 3%;
 }
 
+/* 10 */
 .header__heading {
     padding-top: 96px;
     margin-bottom: 46px;
@@ -19,11 +22,13 @@ body {
     color: #a11414;
 }
 
+/* 10 */
 .header__heading--special {
     font-weight: 700;
     text-transform: uppercase;
 }
 
+/* 10 */
 .header__img {
     padding: 1% 0.9%;
     border: 1px solid #000;
@@ -31,14 +36,17 @@ body {
     margin-bottom: 57px;
 }
 
+/* 11 */
 .header__img img {
     width: 100%;
 }
 
+/* 20 */
 .section-float .article {
     margin-right: 3px;
 }
 
+/* 10 */
 .article__heading {
     color: #a11414;
     font-size: 1.5rem;
@@ -46,28 +54,34 @@ body {
     margin-bottom: 24px;
 }
 
+/* 10 */
 .article__text {
     color: #1d1b1b;
     text-indent: 40px;
     margin-bottom: 7px;
 }
 
+/* 10 */
 .article__text-spec {
     margin-bottom: 31px;
 }
 
+/* 10 */
 .article__text--special {
     text-transform: uppercase;
 }
 
+/* 10 */
 .article__text--mod {
     color: #a11414;
 }
 
+/* 10 */
 .article__text--add {
     text-decoration: line-through;
 }
 
+/* 10 */
 .nav_wrap {
     float: right;
     width: 13%;
@@ -78,6 +92,7 @@ body {
     height: fit-content;
 }
 
+/* 10 */
 .nav__heading {
     color: #000;
     font-weight: 700;
@@ -85,41 +100,48 @@ body {
     margin-bottom: 24px;
 }
 
+/* 10 */
 .nav__link {
     color: #000;
     text-decoration: none;
 }
 
+/* 20 */
 .nav__link:hover {
     font-weight: 700;
     color: #a11414;
     text-decoration: underline;
 }
 
+/* 11 */
 .nav_wrap::after {
     content: "";
     display: table;
     clear: both;
 }
 
+/* 10 */
 .footer {
     width: 78%;
     margin-top: 4px;
     padding-bottom: 18px;
 }
 
+/* 10 */
 .footer__line {
     background: url("../images/back.png") no-repeat 0 50%;
     background-size: 100%;
     margin-top: 35px;
 }
 
+/* 10 */
 .footer__text {
     text-align: center;
     padding: 7px 0 6px;
     color: #403636;
 }
 
+/* 10 */
 .footer__text-special {
     font-weight: 700;
 }
