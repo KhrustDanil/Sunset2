@@ -67,3 +67,13 @@ body {
 .article__text--add {
     text-decoration: line-through;
 }
+
+.nav_wrap {
+    float: right;
+    width: 13%;
+    border-radius: 2px 15px;
+    background: #D7D7D7;
+    padding: 29px 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: fit-content;
+}
