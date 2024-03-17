@@ -77,3 +77,21 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     height: fit-content;
 }
+
+.nav__heading {
+    color: #000;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.nav__link {
+    color: #000;
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    font-weight: 700;
+    color: #a11414;
+    text-decoration: underline;
+}
