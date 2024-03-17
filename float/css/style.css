@@ -34,3 +34,36 @@ body {
 .header__img img {
     width: 100%;
 }
+
+.section-float .article {
+    margin-right: 3px;
+}
+
+.article__heading {
+    color: #a11414;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.article__text {
+    color: #1d1b1b;
+    text-indent: 40px;
+    margin-bottom: 7px;
+}
+
+.article__text-spec {
+    margin-bottom: 31px;
+}
+
+.article__text--special {
+    text-transform: uppercase;
+}
+
+.article__text--mod {
+    color: #a11414;
+}
+
+.article__text--add {
+    text-decoration: line-through;
+}
