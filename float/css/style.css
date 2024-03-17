@@ -11,3 +11,26 @@ body {
     background-color: #fff;
     padding: 0 3%;
 }
+
+.header__heading {
+    padding-top: 96px;
+    margin-bottom: 46px;
+    font-size: 2rem;
+    color: #a11414;
+}
+
+.header__heading--special {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.header__img {
+    padding: 1% 0.9%;
+    border: 1px solid #000;
+    border-radius: 2px;
+    margin-bottom: 57px;
+}
+
+.header__img img {
+    width: 100%;
+}
