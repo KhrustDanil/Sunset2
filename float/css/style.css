@@ -95,3 +95,9 @@ body {
     color: #a11414;
     text-decoration: underline;
 }
+
+.nav_wrap::after {
+    content: "";
+    display: table;
+    clear: both;
+}
