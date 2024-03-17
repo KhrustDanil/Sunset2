@@ -4,3 +4,10 @@ body {
     font-family: "Roboto", Arial, sans-serif;
     font-weight: 400;
 }
+
+.wrapper {
+    width: 68%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 0 3%;
+}
