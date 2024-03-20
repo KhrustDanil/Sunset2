@@ -43,7 +43,7 @@ body {
 }
 
 /* 20 */
-.section-float .article-item {
+.section-float .article__item {
     margin-right: 3px;
 }
 
@@ -89,7 +89,7 @@ body {
 }
 
 /* 10 */
-.nav_wrap {
+.nav__wrap {
     float: right;
     width: 13.5%;
     border-radius: 2px 15px;

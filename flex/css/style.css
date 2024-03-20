@@ -9,7 +9,7 @@ body {
 
 /* 10 */
 .wrapper {
-    width: 68%;
+    width: 68.8%;
     margin: 0 auto;
     background-color: #fff;
     padding: 0 3%;
@@ -88,7 +88,7 @@ body {
 }
 
 /* 10 */
-.nav_wrap {
+.nav__wrap {
     width: 13%;
     border-radius: 2px 15px;
     background: #D7D7D7;
@@ -121,7 +121,7 @@ body {
 
 /* 10 */
 .footer {
-    width: 78%;
+    width: 85%;
     margin-top: 4px;
     padding-bottom: 18px;
 }
